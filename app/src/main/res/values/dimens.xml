@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="divider_height_1dp">1dp</dimen>
+    <dimen name="activity_main_constraint_layout_padding_8dp">8dp</dimen>
+    <dimen name="button_margin_4dp">4dp</dimen>
+</resources>

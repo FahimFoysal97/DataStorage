@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DataStorage</string>
+    <string name="enter_any_text_to_save">Enter any text to save</string>
+    <string name="save">Save</string>
+    <string name="read">Read</string>
+    <string name="permission_granted">Permission granted</string>
+    <string name="saved">Saved</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="id">ID</string>
+    <string name="save_using_sharedpreference">Save using SharedPreference</string>
+    <string name="load_from_sharedpreference">Load from SharedPreference</string>
+    <string name="delete_from_sharedpreference">Delete from SharedPreference</string>
+    <string name="enter_your_name">Enter your name.</string>
+    <string name="enter_your_email">Enter your email.</string>
+    <string name="enter_your_id">Enter your id.</string>
+    <string name="na">NA</string>
+    <string name="enter_any_text">Enter any text</string>
+</resources>
